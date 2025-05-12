@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramlalkumawat&label=Profile%20views&color=0e75b6&style=flat" alt="ramlalkumawat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramlalkumawat" alt="ramlalkumawat" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramlalkumawat" alt="ramlalkumawat" /></a> 
+  <img src="https://in.pinterest.com/pin/8092474324775014/" align="right" width="200"/>
+
+</p>
 
 - 🌱 I’m currently learning **🌱 I’m currently learning full-stack web development using the MERN stack**
 
